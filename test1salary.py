@@ -6,4 +6,4 @@ class Employee:
 emp1 = Employee("01","50000")
 emp2 = Employee("02","60000")        
 
-print(emp1.salary)
+# print(emp1.salary)
